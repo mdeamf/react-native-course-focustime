@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "App",
+    "android": {
+      "softwareKeyboardLayoutMode": "pan"
+    }
+  }
+}
